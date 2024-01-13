@@ -1,6 +1,7 @@
 # MaskingAlgorithm
 Image Masking Algorithm for cartridge cases
 I tried my best to achieve specific order of masking mentioned in an assignment
+Have used OpenCV and numpy library for image processing
 Here is the attached Images of before and After
 Image Before:
 
