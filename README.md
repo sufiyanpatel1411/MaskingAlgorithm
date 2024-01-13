@@ -14,3 +14,4 @@ Image After:
 
 ![masked_image](https://github.com/sufiyanpatel1411/MaskingAlgorithm/assets/117996557/49e7d442-a678-498a-8e16-1aa2771f3550)
 
+!Note : Need more changes to work properly
