@@ -11,7 +11,7 @@ Image Before:
 
 Image After:
 
+![image](https://github.com/sufiyanpatel1411/MaskingAlgorithm/assets/117996557/c4c92003-d597-4b65-9a46-01484c8b090c)
 
-![masked_image](https://github.com/sufiyanpatel1411/MaskingAlgorithm/assets/117996557/49e7d442-a678-498a-8e16-1aa2771f3550)
 
 !Note : Need more changes to work properly
